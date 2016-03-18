@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UIStudy</string>
+    <string name="title_activity_main">UI实验田</string>
+    <string name="exit_button">退出</string>
+    <string name="empty_activity_string">这是一个新的activity</string>
+    <string name="button_emtpy_activity">空页面</string>
+    <string name="ok">单击我</string>
+    <string name="codeview">代码生产View</string>
+    <string name="imageview">图片浏览器</string>
+</resources>
